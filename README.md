@@ -1,4 +1,4 @@
-ScriptForce | This instrument for bruteforce rcon password with ip and rcon port.
+ScriptForce | This instrument for bruteforce minecraft server Rcon (getting rcon password with rcon port, ip without port)
 Only for ethical purposes and responsibility are you
 
 ## How to run this script and bruteforce? (Kali-Linux)
